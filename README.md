@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I do stuff
+- I do more stuff
+- Discord: @dleovl
 
 <!--
 **dleovl/dleovl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
