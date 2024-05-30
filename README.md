@@ -3,6 +3,6 @@
 <a href="https://discord.com/users/772340930694611014" style="text-decoration:none">contact me</a>
 <!-- why so nitpicky on styling? -->
 
-i do web development
+i primarily do web development & random misc stuff
 
-most work is not published
+most work is not published & kept local/private
