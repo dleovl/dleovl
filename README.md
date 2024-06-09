@@ -6,3 +6,5 @@
 i primarily do web development & random misc stuff
 
 most work is not published & kept local/private
+
+All code posted here is officially certified as bootloop free!
